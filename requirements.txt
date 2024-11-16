@@ -1,0 +1,67 @@
+astroid==2.15.0
+autopep8==1.6.0
+brotlipy==0.7.0
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+cffi @ file:///C:/b/abs_49n3v2hyhr/croot/cffi_1670423218144/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
+cryptography @ file:///C:/b/abs_8ecplyc3n2/croot/cryptography_1677533105000/work
+cycler==0.11.0
+dill==0.3.6
+docstring-to-markdown==0.11
+flake8==5.0.4
+fonttools==4.38.0
+idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
+isort==5.11.5
+jedi==0.18.2
+kiwisolver==1.4.5
+lazy-object-proxy==1.9.0
+matplotlib==3.5.3
+mccabe==0.7.0
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186163140/work
+mkl-service==2.4.0
+numpy @ file:///C:/ci/numpy_and_numpy_base_1653574840943/work
+opencv-python==4.9.0.80
+packaging==23.0
+parso==0.8.3
+Pillow==9.3.0
+platformdirs==3.1.1
+pluggy==1.0.0
+pycodestyle==2.9.1
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydocstyle==6.2.3
+pyflakes==2.5.0
+pylint==2.17.0
+pyOpenSSL @ file:///C:/b/abs_552w85x1jz/croot/pyopenssl_1677607703691/work
+pyparsing==3.1.1
+PySocks @ file:///C:/ci/pysocks_1594394709107/work
+python-dateutil==2.8.2
+python-lsp-jsonrpc==1.0.0
+python-lsp-server==1.7.1
+pytoolconfig==1.2.5
+pytorch-ignite==0.1.2
+PyYAML==6.0.1
+requests @ file:///C:/ci/requests_1657735288441/work
+rope==1.7.0
+scipy==1.7.3
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+snowballstemmer==2.2.0
+toml==0.10.2
+tomli==2.0.1
+tomlkit==0.11.6
+torch==1.13.1
+torchaudio==0.13.1
+torchvision==0.14.1
+tqdm @ file:///C:/b/abs_0axbz66qik/croots/recipe/tqdm_1664392691071/work
+typed-ast==1.5.4
+typing_extensions @ file:///C:/Windows/TEMP/abs_dd2d0moa85/croots/recipe/typing_extensions_1659638831135/work
+ujson==5.7.0
+urllib3 @ file:///C:/b/abs_9bcwxczrvm/croot/urllib3_1673575521331/work
+whatthepatch==1.0.4
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306165655/work
+wincertstore==0.2
+wrapt==1.15.0
+yacs==0.1.8
+yapf==0.32.0
+zipp==3.15.0
