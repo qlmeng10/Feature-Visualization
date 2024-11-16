@@ -1,0 +1,24 @@
+DATASETS:
+  ROOT_DIR : './data'
+  NAMES : "vsw"
+
+INPUT:
+  IMAGE_SIZE: [256, 256]
+  IMAGE_SIZE_LARGE : [1080, 1920]
+
+OUTPUT:
+  OUTPUT_ROOT: "./data_output"
+
+MODEL:
+  LAST_STRIDE: 1
+
+
+
+
+
+
+
+
+
+
+
